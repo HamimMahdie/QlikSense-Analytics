@@ -31,11 +31,11 @@ We’re focused on optimizing sales during peak seasons like holidays while also
 - **Maximize sales** during holiday seasons by better understanding customer demand by bringing in more products & bring in more staff ensuring smoother operations and customer satisfaction 🎁.
 - **Implement discounts** maintain high sales volume and ensure products don't go to waste, even during slower periods 🏷️.
 
-## **2. Sales Trends vs. Economic Indicators 💼**
+## **2. Economic Indicators 💼 for Sales Predications**
 We are constantly looking for trends that help us understand broader economic influences:
 - **Predict how economic changes impact sales** and consumer behavior, enabling us to adjust pricing and inventory accordingly. 💡
 
-## **3. Delivery Discounts & Fuel Prices ⛽**
+## **3. Delivery Solutions depending on Fuel Prices ⛽**
 Our delivery system is key to customer satisfaction. Understanding the relationship between fuel prices and delivery costs is crucial:
 - **Track fuel price fluctuations** and adjust **delivery discounts** to optimize margins while maintaining competitive pricing.💸
 
