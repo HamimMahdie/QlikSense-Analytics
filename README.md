@@ -1,6 +1,6 @@
   # Walmart: A Glimpse into the Future of Retail – Powered by Data Analytics 🚀
 
-## **Who We Are**
+##                                                                 **Who We Are**
 
 At Walmart in 2010-12, we're preparing to become the world’s smartest retailer, fueled by the power of data analytics. 📊 As we enter a new era of technology, our goal is to leverage big data to optimize customer experience. 🌐 With our visionary approach to predictive analytics, real-time insights, and behavior-driven strategies, we're positioning Walmart as a leader in the retail revolution of the future. 🔮
 
