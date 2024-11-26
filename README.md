@@ -1,4 +1,4 @@
-# Walmart: A Glimpse into the Future of Retail – Powered by Data Analytics 🚀
+# Walmart: Powered by Data Analytics 🚀
 
 ## **Who We Are**
 
