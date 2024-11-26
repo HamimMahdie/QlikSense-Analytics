@@ -34,8 +34,31 @@ Our **Data Analytics Team** is at the heart of this transformation, working  to 
 
 ---
 
-## **Our Vision for the Future**
+# Addressing Key Business Questions with Data Analytics 📊
 
-As Walmart looks to the future, we are committed to being a technology-driven leader, where data not only guides decision-making but transforms the entire retail experience. 🌟 With our forward-thinking Data Analytics Team, we’re paving the way for the next generation of retail, optimizing operations, and providing customers with seamless, personalized experiences. 💫
+Here's how we're addressing five key business questions that are crucial to our growth and efficiency:
 
-**Welcome to the future of retail. Welcome to Walmart.** 🛒
+## **1) Holiday Sales 🎄 vs. Non-Holiday Sales 🏷️**
+We’re focused on optimizing sales during peak seasons like holidays while also ensuring a strong performance during non-holiday periods. By analyzing sales patterns, we can:
+- **Maximize sales** during holiday seasons by better understanding customer demand by bringing in more products & bring in more staff ensuring smoother operations and customer satisfaction 🎁.
+- **Implement discounts** maintain high sales volume and ensure products don't go to waste, even during slower periods 🏷️.
+
+## **2) Sales Trends vs. Economic Indicators 💼**
+We are constantly looking for trends that help us understand broader economic influences:
+- **Predict how economic changes impact sales** and consumer behavior, enabling us to adjust pricing and inventory accordingly. 💡
+
+## **3) Delivery Discounts & Fuel Prices ⛽**
+Our delivery system is key to customer satisfaction. Understanding the relationship between fuel prices and delivery costs is crucial:
+- **Track fuel price fluctuations** and adjust **delivery discounts** to optimize margins while maintaining competitive pricing.💸
+
+## **4) Temperature’s Effect on Sales 🌡️🛒**
+We recognize that external factors, such as weather, can significantly influence shopping behavior:
+- By **monitoring temperature trends**, we analyze how **weather patterns** affect product sales, especially for seasonal items like clothing, beverages, and outdoor gear.
+- This allows us to **adjust stock levels**, **plan promotions**, and **forecast sales** more accurately, ensuring customers get what they need, when they need it. ☀️❄️
+
+---
+
+## **Our Data-Driven Future 🚀**
+These are just a few examples of how we use data to optimize every aspect of our business.
+
+**Data is what drives our decisions at Walmart.** 🛒📊
