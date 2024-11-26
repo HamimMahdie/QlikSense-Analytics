@@ -1,4 +1,4 @@
-  # Walmart: A Glimpse into the Future of Retail – Powered by Data Analytics 🚀
+# Walmart: A Glimpse into the Future of Retail – Powered by Data Analytics 🚀
 
 ## **Who We Are**
 
@@ -66,10 +66,6 @@ By leveraging these data points, we can continuously refine our sales strategies
 ## **The Tool We Use: QlikSense 📊**
 
 We will be using **QlikSense** to visualize and analyze our sales data. This powerful analytics tool allows us to create interactive dashboards, uncover trends, and generate insights.
-
----
-
-Given the context you've provided, I would revise the **end goal** to better align with your focus on using data to enhance customer experience and operational efficiency while driving growth. Here's the updated version:
 
 ---
 
