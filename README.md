@@ -50,14 +50,14 @@ We recognize that external factors, such as weather, can significantly influence
 
 Our **Walmart_Sales.csv** file is a rich dataset that helps us analyze and optimize various aspects of our retail operations. Here’s how we use the key data columns to drive decision-making:
 
-- **Store** 🏪: Represents individual Walmart locations, allowing us to analyze performance at the store level and tailor strategies to specific markets.
-- **Date** 📅: Tracks weekly sales data over time, helping us identify seasonal trends and forecast demand.
-- **Weekly_Sales** 💸: Provides the sales revenue for each store, giving us insights into performance, trends, and growth opportunities.
-- **Holiday_Flag** 🎄: Indicates whether a week corresponds to a holiday period, enabling us to analyze the impact of holidays on sales and staffing needs.
-- **Temperature** 🌡️: Records weekly temperature data, allowing us to examine how weather conditions influence consumer behavior and sales patterns.
-- **Fuel_Price** ⛽: Captures weekly fuel price data, helping us understand the relationship between delivery costs, consumer spending, and overall sales.
-- **CPI** 📈: Consumer Price Index (CPI) data, which helps us analyze how inflation impacts purchasing power and consumer spending habits.
-- **Unemployment** 💼: Tracks the unemployment rate, enabling us to understand its correlation with sales and adjust strategies accordingly.
+- **Store** 🏪: Represents individual Walmart locations
+- **Date** 📅: Tracks weekly sales data over time
+- **Weekly_Sales** 💸: Provides the sales revenue for each store
+- **Holiday_Flag** 🎄: Indicates whether a week corresponds to a holiday period
+- **Temperature** 🌡️: Records weekly temperature data
+- **Fuel_Price** ⛽: Captures weekly fuel price data
+- **CPI** 📈: Consumer Price Index (CPI) data
+- **Unemployment** 💼: Tracks the unemployment rate
 
 By leveraging these data points, we can continuously refine our sales strategies, optimize inventory, and improve customer experiences across all our stores.
 
