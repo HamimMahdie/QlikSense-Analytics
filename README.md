@@ -61,4 +61,25 @@ Our **[Walmart_Sales.csv](https://github.com/HamimMahdie/QlikSense-Analytics/blo
 
 By leveraging these data points, we can continuously refine our sales strategies, optimize inventory, and improve customer experiences across all our stores.
 
+---
+
+## **The Tool We Use: QlikSense 📊**
+
+We will be using **QlikSense** to visualize and analyze our sales data. This powerful analytics tool allows us to create interactive dashboards, uncover trends, and generate insights.
+
+---
+
+Given the context you've provided, I would revise the **end goal** to better align with your focus on using data to enhance customer experience and operational efficiency while driving growth. Here's the updated version:
+
+---
+
+## **Our End Goal 🎯**
+
+Our ultimate goal is to **transform Walmart** by leveraging data to enhance the customer experience and optimize business operations. Through **QlikSense** we aim to:
+- **Gain deeper insights** into customer behavior and sales trends to offer personalized experiences and improve satisfaction.
+- **Optimize inventory management, pricing, and staffing** to ensure we meet customer demand efficiently across all stores.
+- **Enhance forecasting accuracy** and improve decision-making through data-driven insights that support smarter business strategies.
+  
+Ultimately, we want to turn data into actionable insights that drive growth and ensure Walmart’s continued success.
+
 **Data is what drives our decisions at Walmart.** 🛒📊
