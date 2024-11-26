@@ -48,7 +48,7 @@ We recognize that external factors, such as weather, can significantly influence
 
 ## **Our Sales Data 🚀**
 
-Our **Walmart_Sales.csv** file is a rich dataset that helps us analyze and optimize various aspects of our retail operations. Here’s how we use the key data columns to drive decision-making:
+Our **[Walmart_Sales.csv](https://github.com/HamimMahdie/QlikSense-Analytics/blob/main/Walmart_Sales.csv)** file is a rich dataset that helps us analyze and optimize various aspects of our retail operations. Here’s how we use the key data columns to drive decision-making:
 
 - **Store** 🏪: Represents individual Walmart locations
 - **Date** 📅: Tracks weekly sales data over time
