@@ -78,4 +78,7 @@ Our ultimate goal is to **transform Walmart** by leveraging data to enhance the 
   
 Ultimately, we want to turn data into actionable insights that drive growth and ensure Walmart’s continued success.
 
+## **Acknowledgements**
+Our dataset is sourced from Kaggle: https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+
 **Data is what drives our decisions at Walmart.** 🛒📊
