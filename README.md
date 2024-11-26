@@ -4,7 +4,7 @@
 
 At Walmart in 2010-12, we're preparing to become the world’s smartest retailer, fueled by the power of data analytics. 📊 As we enter a new era of technology, our goal is to leverage big data to optimize customer experience. 🌐 With our visionary approach to predictive analytics, real-time insights, and behavior-driven strategies, we're positioning Walmart as a leader in the retail revolution of the future. 🔮
 
-## **Our Data Analytics Team** 👩‍💻👨‍💻
+## **Our Data Team** 👩‍💻👨‍💻
 
 Our **Data Analytics Team** is at the heart of this transformation, working  to turn data into actionable insights that drive business success. Let’s meet the team:
 
@@ -20,7 +20,7 @@ Our **Data Analytics Team** is at the heart of this transformation, working  to 
 
 ---
 
-## Addressing Key Business Questions with Data Analytics 📊
+## **Addressing Key Business Questions with Data Analytics** 📊
 
 Here's how we're addressing five key business questions that are crucial to our growth and efficiency:
 
