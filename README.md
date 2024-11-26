@@ -8,15 +8,15 @@ At Walmart in 2010-12, we're preparing to become the world’s smartest retailer
 
 Our **Data Analytics Team** is at the heart of this transformation, working  to turn data into actionable insights that drive business success. Let’s meet the team:
 
-### **1. Shazif – Business Intelligence Specialist** 💡
+#### ** Shazif – Business Intelligence Specialist** 💡
 
-### **2. Hamim – Chief Data Scientist** 🤖
+#### ** Hamim – Chief Data Scientist** 🤖
 
-### **3. Fadhil – Machine Learning Engineer** 🧠
+#### ** Fadhil – Machine Learning Engineer** 🧠
 
-### **4. Myri – Senior Data Engineer** 🔧
+#### ** Myri – Senior Data Engineer** 🔧
 
-### **5. Kamilla – Data Analyst** 📊
+#### ** Kamilla – Data Analyst** 📊
 
 ---
 
