@@ -46,7 +46,7 @@ We recognize that external factors, such as weather, can significantly influence
 
 ---
 
-## **Our Data-Driven Future 🚀**
+## **Our Sales Data 🚀**
 These are just a few examples of how we use data to optimize every aspect of our business.
 
 **Data is what drives our decisions at Walmart.** 🛒📊
